@@ -1,0 +1,6 @@
+hello world
+printf
+yo world
+printf hey
+ok world
+printf whats up

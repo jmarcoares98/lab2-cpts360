@@ -1,0 +1,16 @@
+0 cat
+1 hello.txt
+2 (null)
+3 outfile.txt
+name[0]=cat	i=0	cmd=/usr/local/sbin/cat
+name[0]=cat	i=1	cmd=cat/cat
+name[0]=cat	i=2	cmd=/usr/sbin/cat
+name[0]=cat	i=3	cmd=/usr/bin/cat
+name[0]=cat	i=4	cmd=/sbin/cat
+name[0]=cat	i=5	cmd=/bin/cat
+hello world
+printf
+yo world
+printf hey
+ok world
+printf whats up
